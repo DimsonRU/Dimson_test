@@ -1,2 +1,2 @@
-print('ssss')
-print('aaaaaa')
+print('sswerwerwerwrwerewrewrwerwerewrwerwerss')
+print('aaaawerwerrewrwerwerwerweraa')
